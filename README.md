@@ -1,6 +1,6 @@
 <h1>Design Pattern</h1>
 Some examples to illustrate design pattern implementation
-</br>
+<br/>
 Book Reference: Head First: Design Patterns</br>
 </br>
 <h2>Strategy Pattern</h2>
