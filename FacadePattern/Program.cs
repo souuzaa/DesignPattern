@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FacadePattern.Facades;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,9 @@ namespace FacadePattern
     {
         static void Main(string[] args)
         {
+            CarFacade facade = new CarFacade();
+            facade.CreateCompleteCar();
+            Console.ReadKey(true);
         }
     }
 }
