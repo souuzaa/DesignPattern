@@ -79,7 +79,7 @@ https://en.wikipedia.org/wiki/Adapter_pattern
 <h2>Facade Pattern</h2>
 <b>Definition:</b> A facade is an object that provides a simplified interface to a larger body of code, such as a class library.
 <br/>
-<b>Ex:</b>
+<b>Ex:</b> Creating a car structure (body, accessories, engine and model) using a facade class.
 <br/>
 <b>Reference:</b><br/>
 https://www.youtube.com/watch?v=K4FkHVO5iac<br/>
