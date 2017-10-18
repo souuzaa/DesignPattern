@@ -86,3 +86,15 @@ https://en.wikipedia.org/wiki/Adapter_pattern
 https://www.youtube.com/watch?v=K4FkHVO5iac<br/>
 https://en.wikipedia.org/wiki/Facade_pattern
 <br/>
+<h2>Proxy Pattern</h2>
+<b>Definition:</b> A proxy, in its most general form, is a class functioning as an interface to something else.
+	-A proxy may hide information about the real object to the client.
+	-A proxy may perform optimization like on demand loading.
+	-A proxy may do additional house-keeping job like audit tasks.
+<br/>
+<b>Ex:</b> A network connection, a large object in memory, a file, or some other resource that is expensive or impossible to duplicate.
+<br/>
+<b>Reference:</b><br/>
+https://www.youtube.com/watch?v=NwaabHqPHeM<br/>
+https://en.wikipedia.org/wiki/Proxy_pattern
+<br/>
