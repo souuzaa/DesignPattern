@@ -1,6 +1,7 @@
 <h1>Design Pattern</h1>
 Some examples to illustrate design pattern implementation<br/>
-Book Reference: Head First: Design Patterns
+Book Reference: Head First: Design Patterns<br/>
+Video Reference: <a href="https://youtu.be/v9ejT8FO-7I">Christopher Okhravi</a>
 <br/>
 <h2>Strategy Pattern</h2>
 <b>Definition:</b> In computer programming, the strategy pattern (also known as the policy pattern) is a behavioral software design pattern that enables selecting an algorithm at runtime. The strategy pattern:
@@ -79,9 +80,21 @@ https://en.wikipedia.org/wiki/Adapter_pattern
 <h2>Facade Pattern</h2>
 <b>Definition:</b> A facade is an object that provides a simplified interface to a larger body of code, such as a class library.
 <br/>
-<b>Ex:</b>
+<b>Ex:</b> Creating a car structure (body, accessories, engine and model) using a facade class.
 <br/>
 <b>Reference:</b><br/>
 https://www.youtube.com/watch?v=K4FkHVO5iac<br/>
 https://en.wikipedia.org/wiki/Facade_pattern
+<br/>
+<h2>Proxy Pattern</h2>
+<b>Definition:</b> A proxy, in its most general form, is a class functioning as an interface to something else.
+	-A proxy may hide information about the real object to the client.
+	-A proxy may perform optimization like on demand loading.
+	-A proxy may do additional house-keeping job like audit tasks.
+<br/>
+<b>Ex:</b> A network connection, a large object in memory, a file, or some other resource that is expensive or impossible to duplicate.
+<br/>
+<b>Reference:</b><br/>
+https://www.youtube.com/watch?v=NwaabHqPHeM<br/>
+https://en.wikipedia.org/wiki/Proxy_pattern
 <br/>
