@@ -1,6 +1,7 @@
 <h1>Design Pattern</h1>
 Some examples to illustrate design pattern implementation<br/>
-Book Reference: Head First: Design Patterns
+Book Reference: Head First: Design Patterns<br/>
+Video Reference: <a href="https://youtu.be/v9ejT8FO-7I">Christopher Okhravi</a>
 <br/>
 <h2>Strategy Pattern</h2>
 <b>Definition:</b> In computer programming, the strategy pattern (also known as the policy pattern) is a behavioral software design pattern that enables selecting an algorithm at runtime. The strategy pattern:
