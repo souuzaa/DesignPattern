@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{2B940723-9073-42AA-A5B0-16F94DBFF77F}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{36B5BFDD-653A-47F9-A01D-2227EA7F9B61}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{588F5BF0-CE95-4534-B3A5-C5CD8E6866C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{29CC0A30-BF1C-4EF6-968F-1CA9206CB4D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{588F5BF0-CE95-4534-B3A5-C5CD8E6866C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{588F5BF0-CE95-4534-B3A5-C5CD8E6866C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{588F5BF0-CE95-4534-B3A5-C5CD8E6866C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29CC0A30-BF1C-4EF6-968F-1CA9206CB4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29CC0A30-BF1C-4EF6-968F-1CA9206CB4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29CC0A30-BF1C-4EF6-968F-1CA9206CB4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29CC0A30-BF1C-4EF6-968F-1CA9206CB4D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
